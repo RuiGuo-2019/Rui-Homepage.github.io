@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+<!-- [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX) -->
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Senior R&D Engineer @ Caspia Technologies
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>guoruinpu@gmail.com</code>  
+<!-- <code>XX@XX.XX</code> -->
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Florida**, Ph.D. in Electrical and Computer Engineering (2021 – 2025)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**University of Florida**, M.S. in Electrical and Computer Engineering (2019 - 2021)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+
 
 #### Research Interests  
-XX, XX, XX, XX.
+Research Interests: Hardware Security and Trust, Supply Chain Security, LLM for Hardware Security, Cryptography, Secure Heterogeneous Integration
