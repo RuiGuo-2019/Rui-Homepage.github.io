@@ -1,7 +1,7 @@
 ### **R&D Intern**  
 **May 2024 – April 2025 | Caspia Technologies**  
 
-During my time as an R&D Intern at Caspia Technologies, I focused on developing an innovative EDA tool to detect hardware security vulnerabilities by analyzing RTL code. My work provided early security assurance for hardware designs, significantly enhancing security by identifying and resolving potential defects.
+<!-- During my time as an R&D Intern at Caspia Technologies, I focused on developing an innovative EDA tool to detect hardware security vulnerabilities by analyzing RTL code. My work provided early security assurance for hardware designs, significantly enhancing security by identifying and resolving potential defects. -->
 
 <!-- #### Key Contributions:  
 - Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
